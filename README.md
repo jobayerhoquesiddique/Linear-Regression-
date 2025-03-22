@@ -26,10 +26,10 @@ Provides real-time predictions, interactive visualizations, and model performanc
 📂 Project Structure
 
 📦 LinearRegressionApp  
-├── 📂 data/               # Dataset (CSV files)  
-├── 📜 app.py              # Streamlit Web App  
-├── 📜 requirements.txt    # Dependencies  
-├── 📜 README.md           # Project Documentation  
+├── 📂 data/                    # Dataset (CSV files)  
+├── 📜 Linear Regression.ipynp  # Li
+├── 📜 requirements.txt   	# Dependencies  
+├── 📜 README.md        	# Project Documentation  
 
 
 
@@ -55,7 +55,7 @@ Provides real-time predictions, interactive visualizations, and model performanc
 
 📸 Screenshots
 
-1️⃣ User Interface (Streamlit App)
+1️⃣ User Interface (Streamlit App Not Yet Implemented)
 
 Interactive regression model interface
 
@@ -74,8 +74,8 @@ Residual error distribution
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/LinearRegressionApp.git
-cd LinearRegressionApp
+git clone https://github.com/jobayerhoquesiddique/Linear-Regression
+cd Linear-Regression
 
 2️⃣ Install Dependencies
 
@@ -111,8 +111,8 @@ This project is licensed under the MIT License.
 
 📬 Contact
 
-📧 Email: your-email@example.com
-🔗 GitHub: your-username
+📧 Email: jobayerhoquesiddique@gmail.com
+🔗 GitHub: jobayerhoquesiddiuqe 
 
 ⸻
 
